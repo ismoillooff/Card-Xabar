@@ -123,7 +123,7 @@ cd CardXabar
 Agar GitHub’dan olayotgan bo‘lsangiz, quyidagini o‘zingizning haqiqiy repozitoriy URL manzilingiz bilan almashtiring:
 
 ```bash
-git clone <REPOSITORY_URL>
+git clone https://github.com/ismoillooff/Card-Xabar.git
 cd CardXabar
 ```
 
